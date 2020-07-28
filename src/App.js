@@ -5,7 +5,7 @@ import Modal from "./modal";
 export default function App() {
   return (
     <div className="App">
-      <Modal>To jest modal</Modal>
+      <Modal>To jest nowy modal</Modal>
     </div>
   );
 }
